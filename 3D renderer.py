@@ -1,3 +1,5 @@
+# dependancies :   run in command prompt 'pip install pygame' and 'pip install pygame_gui'
+
 import pygame
 import pygame_gui
 import math
