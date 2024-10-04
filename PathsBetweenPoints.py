@@ -1,3 +1,5 @@
+#pip install pygame
+
 import pygame
 import math
 from collections import defaultdict
