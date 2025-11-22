@@ -18,3 +18,5 @@ print("Done")
 
 print("The sequence is {} numbers long.".format(len(sequence)))
 print("The highest number reached is {}".format(max(sequence)))
+
+input('\n\nPress enter to exit:')
